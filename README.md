@@ -1,4 +1,4 @@
-# 🫀 ECG Arrhythmia Classification using CNN
+# 🫀 ECG Arrhythmia Classification using ML Dl
 
 ## 📌 Project Overview
 This project applies Machine Learning and Deep Learning models to classify ECG signals and detect arrhythmia. A comparison between traditional ML models and a 1D Convolutional Neural Network (CNN) is performed.
