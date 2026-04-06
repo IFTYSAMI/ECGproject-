@@ -1,0 +1,6 @@
+Model,Type,Accuracy (%),Time (s)
+1D-CNN,Deep Learning,99.65,—
+Gradient Boost,Machine Learning,95.63,4.0
+Random Forest,Machine Learning,95.15,0.2
+SVM (RBF),Machine Learning,94.33,0.2
+KNN (k=5),Machine Learning,89.95,0.0
